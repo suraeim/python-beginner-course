@@ -1,9 +1,16 @@
 # 🐍 Python Beginner Course — Instructor: Zahra Ghorbani
 
-A structured beginner Python course with 14 sessions.
+A beginner-friendly Python course featuring 14 structured sessions that guide learners from basic syntax to essential programming skills.
 
-## How to use
-Run each file:
+Each session is accompanied by a YouTube video lesson, providing detailed explanations, practical demonstrations, and hands-on coding examples to support the learning process.
+
+```markdown
+## How to Use
+Each lesson is organized as a standalone Python file in the `sessions` directory.
+
+Run a lesson with:
+
+```bash
 python sessions/session01_intro.py
 
 ## Goal
